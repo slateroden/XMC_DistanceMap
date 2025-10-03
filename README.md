@@ -1,5 +1,5 @@
 # XMC_DistanceMap
-Magellanic Cloud Distance Distance Map
+Magellanic Cloud Distance Map
 
 15 arcminute resolution (0.25 deg) Distance map of the XMCs created from their red clump population.
 
