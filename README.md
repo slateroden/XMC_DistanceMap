@@ -1,4 +1,5 @@
-_# XMC_DistanceMap
+# XMC_DistanceMap
+
 Magellanic Cloud Distance Map
 
 15 arcminute resolution (0.25 deg) distance map (kpc) of the XMCs created from their red clump population.
