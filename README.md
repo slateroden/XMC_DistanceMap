@@ -1,8 +1,8 @@
-# XMC_DistanceMap
+_# XMC_DistanceMap
 Magellanic Cloud Distance Map
 
 15 arcminute resolution (0.25 deg) distance map (kpc) of the XMCs created from their red clump population.
 
-The distance map is under the name MC_RC_Distance_Map_Oden25.fits
+The distance map is under the name MC_RC_Distance_Map_Oden25_galactic.fits
 
 See query.py for an example on how to query the map
