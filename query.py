@@ -2,7 +2,6 @@ from astropy.io import fits
 from astropy.wcs import WCS
 from astropy.coordinates import SkyCoord
 import astropy.units as u
-import numpy as np
 from scipy.ndimage import map_coordinates
 
 # --- load the distance map ---
